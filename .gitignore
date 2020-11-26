@@ -1,0 +1,4 @@
+.*.swp
+*.so
+*.o
+linker_test*
